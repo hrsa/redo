@@ -27,5 +27,6 @@
             "email": "anton@anton.eco"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "version": "0.1.0"
 }
