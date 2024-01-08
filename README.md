@@ -1,6 +1,10 @@
 # redo
 `migrate:redo` command for Laravel 5.5+
 
+1. Make sur you're using Laravel 5.5 or higher
+2. Run `composer require --dev hrsa/redo`
+3. Run `php artisan migrate:redo` as much as you want! :)
+
 
 
 A lot of developers (myself included) often have to rollback and re-run the newly-created migration because we had a last-second decision that we need to add another column, or change the column structure.
