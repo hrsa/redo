@@ -1,7 +1,7 @@
 # redo
 `migrate:redo` command for Laravel 5.5+
 
-1. Make sur you're using Laravel 5.5 or higher
+1. Make sure you're using Laravel 5.5 or higher
 2. Run `composer require --dev hrsa/redo`
 3. Run `php artisan migrate:redo` as much as you want! :)
 
